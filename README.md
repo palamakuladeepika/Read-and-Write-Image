@@ -35,7 +35,7 @@ import cv2
 colorImage = cv2.imread('/Users/eswar1607/Desktop/flower.png',1)
 cv2.imwrite('/Users/eswar1607/Desktop/written.jpg',colorImage)
 writtenImage = cv2.imread('/Users/eswar1607/Desktop/written.jpg',1)
-cv2.imshow('212221240008-WrittenImage',writtenImage)
+cv2.imshow('212221240035-WrittenImage',writtenImage)
 cv2.waitKey(0)
 
 ```
@@ -91,7 +91,7 @@ cv2.waitKey(0)
 
 ### iv)Access rows and columns
 <br>
-![Screenshot 2022-03-31 at 10 39 33 PM](https://user-images.githubusercontent.com/94154679/161113203-6e569a57-1d6c-4029-8488-b55f7ce2bdc8.png)
+<img width="535" alt="Screenshot 2022-03-31 at 10 39 33 PM" src="https://user-images.githubusercontent.com/94154679/161117621-5699cace-bc92-4297-93b6-a11df1dbdedb.png">
 <br>
 
 ### v)Cut and paste portion of image
